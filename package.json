@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/john/grunt-coffee-views.git"
+    "url": "git@github.com:johngeorgewright/grunt-coffee-views.git"
   },
   "bugs": {
-    "url": "https://github.com/john/grunt-coffee-views/issues"
+    "url": "https://github.com/johngeorgewright/grunt-coffee-views/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/john/grunt-coffee-views/blob/master/LICENSE-MIT"
+      "url": "https://github.com/johngeorgewright/grunt-coffee-views/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",

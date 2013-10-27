@@ -1,7 +1,7 @@
 {
   "name": "grunt-coffee-views",
   "description": "Coffee views parser for Grunt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/john/grunt-coffee-views",
   "author": {
     "name": "John Wright",

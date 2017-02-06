@@ -1,5 +1,7 @@
 # grunt-coffee-views
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/johngeorgewright/grunt-coffee-views.svg)](https://greenkeeper.io/)
+
 > Coffee views parser for Grunt
 
 ## Getting Started
